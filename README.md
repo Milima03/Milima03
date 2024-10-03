@@ -1,4 +1,5 @@
 ## Hi there 👋
 
-- Student
-- she/her
+- Student :books:
+- she/her :ok_woman:
+- Missy :cat:
